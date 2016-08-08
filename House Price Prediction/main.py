@@ -38,7 +38,10 @@ def run_model(x_columns):
 
     y_train_pred = model.predict(x_train)
     train_error = np.sqrt(mean_squared_error(y_train, y_train_pred))
-    return test_error, train_error
+
+    error_values = y_pred - y_test
+
+    return test_error, train_error, error_values
 
 
 def plot_results(columns, test_error, train_error):
@@ -76,6 +79,18 @@ def plot_results(columns, test_error, train_error):
     plt.show()
 
 
+def plot_error_values(error_values):
+    # Low data (particularly for locations) can results in some massively skewed outliers
+    # This have been removed to help highlight the message of the graph
+    no_outliers = [ev for ev in error_values if -250000 < ev < 250000]
+    plt.hist(no_outliers, 40)
+    plt.xlabel("$ Overvaluation")
+    plt.ylabel("Number of houses")
+    plt.title("How Overvalued Individual Houses Are Based On Features")
+    plt.savefig("valuation.png")
+    plt.show()
+
+
 def main():
     col_permutations = [list(itertools.combinations(X_COL_NAMES, i)) for i in range(1, len(X_COL_NAMES) + 1)]
     col_permutations = [list(item) for sublist in col_permutations for item in sublist]
@@ -84,11 +99,13 @@ def main():
     train_errors = []
 
     for perm in col_permutations:
-        test_error, train_error = run_model(perm)
+        test_error, train_error, error_values = run_model(perm)
         test_errors.append(test_error)
         train_errors.append(train_error)
 
     plot_results(col_permutations, test_errors, train_errors)
+    plot_error_values(error_values)
+
 
 if __name__ == "__main__":
     main()
