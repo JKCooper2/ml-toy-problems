@@ -1,0 +1,735 @@
+Price,Bedrooms,Bathrooms,Size,Location
+795000,3,3,2371,Arroyo Grande
+399000,4,3,2818,Paso Robles
+545000,4,3,3032,Paso Robles
+909000,4,4,3540,Morro Bay
+109900,3,1,1249,Santa Maria-Orcutt
+324900,3,3,1800,Oceano
+192900,4,2,1603,Santa Maria-Orcutt
+215000,3,2,1450,Santa Maria-Orcutt
+999000,4,3,3360,Morro Bay
+319000,3,2,1323,Atascadero
+350000,3,2,1750,Santa Maria-Orcutt
+249000,3,2,1400,Santa Maria-Orcutt
+299000,2,2,1257,Arroyo Grande
+235900,3,2,1400,Santa Maria-Orcutt
+348000,3,2,1600,Santa Maria-Orcutt
+314000,4,3,1794,Paso Robles
+599000,3,3,2950,San Miguel
+299000,3,2,1719,Paso Robles
+425000,3,3,1472,San Luis Obispo
+1100000,4,3,4168,Morro Bay
+110000,2,1,1000,Santa Maria-Orcutt
+200000,3,2,1139,Santa Maria-Orcutt
+134900,3,1,1080,Santa Maria-Orcutt
+250000,4,3,2000,Santa Maria-Orcutt
+950000,3,4,1920,Pismo Beach
+239950,4,2,1348,Santa Maria-Orcutt
+170000,3,2,1280,Santa Maria-Orcutt
+285000,3,2,2400,Santa Maria-Orcutt
+279000,3,3,1700,Santa Maria-Orcutt
+219000,3,2,1600,Santa Maria-Orcutt
+155000,3,2,1050,Santa Maria-Orcutt
+389000,3,2,1415,Atascadero
+340000,3,1,1110,Nipomo
+140000,2,2,1100,Santa Maria-Orcutt
+1100000,3,3,2602,Pismo Beach
+360000,4,3,2351,Santa Maria-Orcutt
+415000,3,3,1350,Morro Bay
+250000,4,2,1206,Santa Maria-Orcutt
+559000,3,3,2628,Santa Maria-Orcutt
+525000,3,3,2365,Nipomo
+779000,3,3,2990,Los Osos
+595000,3,2,1750,Arroyo Grande
+1150000,4,5,5500,Templeton
+550000,3,2,1852,Templeton
+500000,3,2,2100,Grover Beach
+279000,4,3,2580,Santa Maria-Orcutt
+375000,4,2,1963,Santa Maria-Orcutt
+330000,3,3,1900,Santa Maria-Orcutt
+199000,3,3,1450,Santa Maria-Orcutt
+165000,2,2,1000,Santa Maria-Orcutt
+1399000,4,3,6500,Templeton
+255000,3,2,1218,Santa Maria-Orcutt
+325000,2,2,893,Cambria
+789000,3,3,2100,Morro Bay
+498000,4,3,2341,Nipomo
+430000,4,2,2168,Nipomo
+539900,4,3,3032,Paso Robles
+499000,3,2,1293,Pismo Beach
+275000,3,2,1200,Los Osos
+499000,3,4,2250,Santa Maria-Orcutt
+899000,3,3,2430,Morro Bay
+1045000,3,3,2100,Morro Bay
+774000,2,2,1550,Morro Bay
+239000,3,3,1800,Santa Maria-Orcutt
+195000,3,2,1218,Santa Maria-Orcutt
+325000,2,1,768,Grover Beach
+320000,4,2,1929,Nipomo
+275000,4,3,1877,Santa Maria-Orcutt
+329000,3,2,1700,Paso Robles
+140000,3,2,1080,Santa Maria-Orcutt
+409000,4,3,2192,Paso Robles
+167900,3,2,1296,Santa Maria-Orcutt
+325000,7,5,2688,Nipomo
+119000,1,1,900,Santa Maria-Orcutt
+245000,4,2,1482,Santa Maria-Orcutt
+259900,3,2,1726,Santa Maria-Orcutt
+495000,3,2,1486,Arroyo Grande
+399000,4,2,1543,San Luis Obispo
+329700,4,2,1367,Santa Maria-Orcutt
+199000,1,1,712,Atascadero
+149000,3,2,1040,Santa Maria-Orcutt
+225000,3,2,1456,Paso Robles
+195000,2,1,811,Santa Maria-Orcutt
+359900,3,3,1951,Paso Robles
+799000,4,4,3100,Templeton
+595000,3,2,2117,San Luis Obispo
+89000,3,2,1560,Paso Robles
+129900,3,1,1042,Santa Maria-Orcutt
+375000,3,3,1519,Los Osos
+599000,3,2,2774,Atascadero
+235000,3,2,1340,Paso Robles
+255900,3,2,1440,Santa Maria-Orcutt
+148900,5,2,1064,Santa Maria-Orcutt
+749000,3,2,2145,Arroyo Grande
+189900,3,2,1472,Santa Maria-Orcutt
+183000,3,1,888,Paso Robles
+232600,3,3,1582,Santa Maria-Orcutt
+520000,3,2,1680,Cambria
+355000,3,3,1702,Solvang
+275000,0,1,398,Pismo Beach
+225000,4,3,1940,Santa Maria-Orcutt
+161900,3,2,1200,Santa Maria-Orcutt
+249999,3,3,2013,Santa Maria-Orcutt
+208000,2,1,1267,Santa Maria-Orcutt
+385000,2,3,1389,San Luis Obispo
+750000,4,4,3387,Atascadero
+810000,4,3,3305,Atascadero
+890000,4,5,4229,Atascadero
+895000,4,3,3676,Atascadero
+229900,3,2,1458,San Miguel
+240000,2,2,1020,Grover Beach
+429000,4,3,2513,Atascadero
+399000,4,3,2800,Santa Maria-Orcutt
+385000,3,2,2000,Santa Maria-Orcutt
+294900,3,2,1316,Paso Robles
+399000,3,2,1220,Paso Robles
+269000,3,3,1780,Santa Maria-Orcutt
+449000,3,3,2120,Cambria
+555900,5,3,2947,Arroyo Grande
+319900,4,2,2135,Paso Robles
+332000,4,4,1872,Cambria
+432000,4,3,3113,Paso Robles
+199000,2,1,827,Arroyo Grande
+29000,2,2,1500,Santa Maria-Orcutt
+299000,3,2,1270,Atascadero
+259000,4,3,1857,Santa Maria-Orcutt
+99000,1,1,538,Los Osos
+337000,4,2,2000,Santa Maria-Orcutt
+164900,2,1,750,Oceano
+449000,2,3,1650,San Luis Obispo
+899000,3,3,2266,Pismo Beach
+180000,3,2,1280,Santa Maria-Orcutt
+350000,3,2,1509,Los Osos
+479000,2,3,2100,Templeton
+350000,3,2,1470,Grover Beach
+275000,3,2,1424,Santa Maria-Orcutt
+379000,4,3,2277,Paso Robles
+229000,3,2,1458,San Miguel
+604995,2,3,1749,Pismo Beach
+599000,3,3,1996,Pismo Beach
+359000,3,2,1008,Morro Bay
+199000,4,2,1527,Lompoc
+164900,3,2,1440,Paso Robles
+370000,4,2,2064,Paso Robles
+365000,3,3,2136,Paso Robles
+345000,3,2,1498,San Miguel
+299000,2,1,1068,Paso Robles
+519500,2,1,634,Pismo Beach
+645000,4,4,3000,Buellton
+242500,3,2,1218,Santa Maria-Orcutt
+259900,3,3,1300,Santa Maria-Orcutt
+310000,4,3,2014,Santa Maria-Orcutt
+450000,2,2,1463,Atascadero
+220000,2,2,1541,Santa Maria-Orcutt
+585000,3,2,1268,San Luis Obispo
+324000,5,4,2400,Santa Maria-Orcutt
+375000,1,1,551,Cambria
+329000,3,2,1420,Paso Robles
+599900,5,3,2764,Paso Robles
+74900,2,2,1014,Santa Maria-Orcutt
+285000,3,2,1120,Los Osos
+751900,3,3,3400,Santa Maria-Orcutt
+295000,3,2,1386,Santa Maria-Orcutt
+197000,3,2,1376,Santa Maria-Orcutt
+1250000,3,3,2586,Oceano
+249000,3,2,1662,Paso Robles
+179000,2,2,1033,Nipomo
+132000,3,1,1050,Santa Maria-Orcutt
+290000,5,3,2500,Santa Maria-Orcutt
+150000,2,2,896,Los Osos
+150000,2,2,896,Los Osos
+150000,2,2,896,Los Osos
+150000,2,2,896,Los Osos
+150000,2,2,896,Los Osos
+205000,2,2,1388,Los Osos
+599000,4,3,3120,Atascadero
+269000,3,3,1352,Paso Robles
+249000,4,3,1963,Santa Maria-Orcutt
+235000,3,3,1541,Santa Maria-Orcutt
+469000,4,3,2449,Grover Beach
+159000,4,2,1660,Nipomo
+1499000,5,7,6800,Arroyo Grande
+239000,3,2,1022,Atascadero
+399500,3,2,1665,Atascadero
+299900,3,2,1209,Paso Robles
+275000,3,2,1700,Lompoc
+395000,4,2,1736,Morro Bay
+105000,1,1,731,Santa Maria-Orcutt
+179999,3,2,1086,Santa Maria-Orcutt
+219000,3,2,1131,Santa Maria-Orcutt
+325000,3,3,1500,Solvang
+829900,4,3,3827,Atascadero
+165000,2,1,1100,Santa Maria-Orcutt
+179000,3,2,1398,Santa Maria-Orcutt
+279000,3,2,1381,Paso Robles
+820000,4,4,3387,Atascadero
+399000,2,1,1250,Paso Robles
+164900,3,1,965,San Miguel
+235000,4,2,1860,Santa Maria-Orcutt
+1900000,4,5,5411,Arroyo Grande
+289000,3,2,1367,Nipomo
+355000,3,2,1640,Paso Robles
+199000,3,2,1269,Santa Maria-Orcutt
+209000,3,2,1275,Santa Maria-Orcutt
+186900,3,1,912,Lompoc
+240000,4,2,1460,Santa Maria-Orcutt
+515000,2,2,2000,Nipomo
+215000,4,2,1750,Santa Maria-Orcutt
+399900,4,4,3050,Santa Maria-Orcutt
+369000,4,3,2371,Paso Robles
+250000,2,2,1292,Paso Robles
+259000,3,2,1640,Paso Robles
+180000,2,2,1082,Santa Maria-Orcutt
+399900,3,2,1522,Solvang
+385000,3,2,1535,Arroyo Grande
+154000,2,2,1100,Santa Maria-Orcutt
+254900,2,2,966,San Luis Obispo
+315000,4,2,1653,Paso Robles
+437500,3,3,2523,Santa Maria-Orcutt
+299900,3,3,2511,Santa Maria-Orcutt
+399000,3,3,1772,Arroyo Grande
+330000,3,3,1889,Paso Robles
+279000,2,2,880,Arroyo Grande
+248000,3,2,1400,Santa Maria-Orcutt
+209000,3,3,1494,Santa Maria-Orcutt
+729000,3,2,1844,Los Osos
+454500,4,3,1900,Atascadero
+249000,3,2,1176,Paso Robles
+1700000,3,5,4463,Nipomo
+349000,3,2,1635,Grover Beach
+575000,3,3,2095,Grover Beach
+185000,3,2,1300,Santa Maria-Orcutt
+165000,3,2,1200,Santa Maria-Orcutt
+311900,0,1,910,Morro Bay
+175000,3,2,1600,Santa Maria-Orcutt
+180000,4,2,1332,Lompoc
+78000,2,2,1680,Santa Maria-Orcutt
+142900,2,1,1313,Oceano
+850000,4,4,3744,Atascadero
+389000,3,2,1998,Paso Robles
+641900,3,3,2714,Santa Maria-Orcutt
+305000,4,2,1797,Templeton
+260000,3,3,1687,Paso Robles
+320000,3,2,1663,Paso Robles
+199000,2,1,792,Atascadero
+299000,2,2,1410,Santa Maria-Orcutt
+289000,2,2,1085,Buellton
+229900,3,3,1900,Santa Maria-Orcutt
+865000,4,3,3305,Atascadero
+900000,4,4,3962,Atascadero
+199000,2,3,1260,Atascadero
+160000,2,3,1200,Santa Maria-Orcutt
+299000,3,3,2400,Santa Maria-Orcutt
+300000,3,3,1265,Oceano
+270000,4,2,1460,Santa Maria-Orcutt
+490000,3,3,1894,Nipomo
+295000,3,3,1800,Santa Maria-Orcutt
+225000,3,2,1550,Paso Robles
+324900,2,2,1426,Atascadero
+165000,3,2,1110,Santa Maria-Orcutt
+157900,3,2,1075,Santa Maria-Orcutt
+299000,3,2,1756,Nipomo
+369000,3,3,2150,Paso Robles
+233000,4,2,1650,Santa Maria-Orcutt
+109900,2,2,1200,Santa Maria-Orcutt
+309000,3,2,1488,Paso Robles
+1799000,4,4,3609,Pismo Beach
+209900,2,2,1113,Santa Maria-Orcutt
+499000,3,2,1600,Solvang
+525000,4,2,1961,Arroyo Grande
+650000,3,3,3249,Los Osos
+529000,3,3,1510,Morro Bay
+179000,3,2,1300,Santa Maria-Orcutt
+282000,3,3,1736,Lompoc
+899000,4,3,3008,Templeton
+130000,3,2,1850,Santa Maria-Orcutt
+205000,3,2,1146,Santa Maria-Orcutt
+180900,2,2,1100,Santa Maria-Orcutt
+409900,4,4,2135,Atascadero
+409900,4,4,2135,Atascadero
+469000,3,2,1827,Grover Beach
+289000,3,1,1005,Arroyo Grande
+99999,2,3,1800,Santa Maria-Orcutt
+445000,5,3,3307,Santa Maria-Orcutt
+640000,3,3,2160,Atascadero
+185000,3,2,1062,San Miguel
+210000,4,2,1102,Santa Maria-Orcutt
+199900,3,2,1215,Santa Maria-Orcutt
+225000,3,2,1600,Santa Maria-Orcutt
+369900,4,2,2161,Paso Robles
+120000,3,2,1686,Santa Maria-Orcutt
+199000,2,1,1000,Paso Robles
+520000,3,3,2600,Arroyo Grande
+579000,5,3,3150,Paso Robles
+300000,4,2,1257,Santa Maria-Orcutt
+325000,3,2,1171,Arroyo Grande
+225000,3,2,1144,Santa Maria-Orcutt
+395000,2,1,1160,Atascadero
+399000,4,3,2300,Santa Maria-Orcutt
+165000,3,2,1144,Lompoc
+374900,3,2,1368,Arroyo Grande
+199900,3,2,1238,Santa Maria-Orcutt
+365000,3,1,1056,Arroyo Grande
+222900,2,2,1086,Santa Maria-Orcutt
+249900,2,1,720,Los Osos
+290000,3,2,1426,Paso Robles
+170500,4,2,1361,Santa Maria-Orcutt
+560000,3,3,2344,Atascadero
+339900,4,2,1925,Nipomo
+550000,4,3,2600,Nipomo
+269900,4,2,1601,San Miguel
+350000,3,2,1395,Paso Robles
+214000,2,2,1042,Los Osos
+299900,3,2,1200,Santa Maria-Orcutt
+139500,2,2,1248,Nipomo
+360000,4,3,3000,Lompoc
+315000,3,2,1300,Paso Robles
+279900,3,2,1244,Paso Robles
+399000,4,2,2139,Paso Robles
+475000,4,3,2450,Atascadero
+65900,2,2,840,Santa Maria-Orcutt
+180000,3,2,1350,San Miguel
+210000,4,2,1377,Santa Maria-Orcutt
+375000,3,3,1475,Buellton
+106900,2,2,894,Atascadero
+221830,3,2,1550,Paso Robles
+239000,3,2,1106,Nipomo
+187500,1,1,594,Atascadero
+309000,3,2,1906,Santa Maria-Orcutt
+315000,3,2,2004,Santa Maria-Orcutt
+191100,3,1,1200,Santa Maria-Orcutt
+699900,5,3,1818,Cambria
+189500,2,2,1040,Nipomo
+199000,4,2,1400,Santa Maria-Orcutt
+359000,4,3,2209,Santa Maria-Orcutt
+264450,3,1,1030,Atascadero
+459000,3,2,1999,Templeton
+150000,3,2,1316,Santa Maria-Orcutt
+875000,3,3,2200,Pismo Beach
+599000,2,2,1200,Pismo Beach
+250000,3,3,1261,Atascadero
+165000,3,2,1120,Lompoc
+229900,4,3,1857,Santa Maria-Orcutt
+229900,3,2,1400,Santa Maria-Orcutt
+269900,3,2,1139,Paso Robles
+245000,5,3,6098,Santa Maria-Orcutt
+165000,3,2,1300,Santa Maria-Orcutt
+429000,3,3,2041,Lompoc
+309900,4,3,2248,Santa Maria-Orcutt
+265000,2,1,972,Arroyo Grande
+169900,4,2,1500,Santa Maria-Orcutt
+380900,3,2,2000,Santa Maria-Orcutt
+315000,4,3,1939,Santa Maria-Orcutt
+260000,3,2,1413,Lompoc
+119900,3,2,1312,Santa Maria-Orcutt
+211500,3,2,1275,Santa Maria-Orcutt
+149000,2,1,854,Santa Maria-Orcutt
+890000,3,3,3474,San Luis Obispo
+289900,3,2,1380,Cambria
+289000,4,3,2100,Santa Maria-Orcutt
+399900,3,2,1487,Oceano
+125000,3,2,900,Santa Maria-Orcutt
+359900,5,3,3036,Nipomo
+239000,3,3,1800,Santa Maria-Orcutt
+199900,3,3,1600,Santa Maria-Orcutt
+179900,4,3,2150,Santa Maria-Orcutt
+195000,3,2,1300,Santa Maria-Orcutt
+299000,2,2,896,San Luis Obispo
+265000,2,3,1700,Santa Maria-Orcutt
+699000,3,2,1700,Nipomo
+275000,2,2,1194,Grover Beach
+169990,3,2,1465,Paso Robles
+189000,3,3,1530,Santa Maria-Orcutt
+105000,2,2,1088,Santa Maria-Orcutt
+365000,4,4,4000,Santa Maria-Orcutt
+335900,3,3,1296,Paso Robles
+170000,3,2,944,Lompoc
+339900,4,2,2100,Santa Maria-Orcutt
+359900,3,3,2340,Santa Maria-Orcutt
+143000,3,2,1080,Santa Maria-Orcutt
+199000,3,2,1196,Santa Maria-Orcutt
+374800,3,3,1365,San Luis Obispo
+499000,3,2,2120,Los Osos
+138900,2,1,1055,Atascadero
+359000,3,2,1774,Paso Robles
+294900,4,2,1856,Santa Maria-Orcutt
+299500,4,2,1836,Atascadero
+427900,4,3,2367,Santa Maria-Orcutt
+269000,3,2,1181,Nipomo
+144900,2,2,1130,Santa Maria-Orcutt
+345000,3,3,2020,Santa Maria-Orcutt
+239000,4,2,1240,Paso Robles
+310000,2,1,780,Los Osos
+225000,3,3,1800,Santa Maria-Orcutt
+695000,5,6,3750,Paso Robles
+242500,3,3,1650,Nipomo
+249250,2,1,728,Arroyo Grande
+479000,3,2,1462,Grover Beach
+169900,3,2,1150,Lompoc
+219900,3,3,1660,Santa Maria-Orcutt
+150000,2,2,1440,Paso Robles
+649000,4,2,1814,Nipomo
+285000,4,3,2100,Santa Maria-Orcutt
+163999,3,2,1488,Paso Robles
+349000,4,2,1718,Nipomo
+409900,3,2,1716,Buellton
+275000,3,2,1320,Los Osos
+179900,3,2,1200,Santa Maria-Orcutt
+789000,3,3,2218,Oceano
+299000,4,3,1768,Santa Maria-Orcutt
+850000,5,4,3588,Arroyo Grande
+295900,3,2,1776,Santa Maria-Orcutt
+199000,4,3,1467,Santa Maria-Orcutt
+199900,3,3,1950,Santa Maria-Orcutt
+179900,3,2,1288,Santa Maria-Orcutt
+290000,3,3,1733,Atascadero
+168000,3,2,1128,Santa Maria-Orcutt
+270000,3,3,1900,Santa Maria-Orcutt
+1249000,6,7,5103,Los Osos
+240000,3,2,1255,Santa Maria-Orcutt
+235000,4,3,2336,Santa Maria-Orcutt
+239800,2,2,1190,San Luis Obispo
+269000,3,3,1800,Santa Maria-Orcutt
+319200,4,3,2006,Paso Robles
+402500,3,2,2446,Paso Robles
+425000,3,2,2114,Paso Robles
+669000,3,3,2600,Atascadero
+369000,3,2,1514,Atascadero
+239900,3,2,1080,Paso Robles
+249500,2,2,1088,Grover Beach
+557000,4,2,1809,Solvang
+339900,6,3,2053,Santa Maria-Orcutt
+149900,2,2,969,Nipomo
+849900,3,4,3375,Arroyo Grande
+307000,3,2,1594,Lompoc
+259000,4,3,1900,Santa Maria-Orcutt
+165000,3,2,1050,Santa Maria-Orcutt
+289900,3,2,1414,Santa Maria-Orcutt
+879000,3,4,3698,Nipomo
+220000,3,2,1200,Santa Maria-Orcutt
+309000,3,3,1685,Atascadero
+580000,3,3,2271,Paso Robles
+459900,2,2,1150,Santa Maria-Orcutt
+299000,5,3,2481,Santa Maria-Orcutt
+309900,4,3,1600,Santa Maria-Orcutt
+287000,3,2,1269,Paso Robles
+310000,3,2,1200,Grover Beach
+229900,3,2,1198,Atascadero
+377000,3,2,1363,Buellton
+295000,4,2,1973,Lompoc
+225000,3,2,1516,Santa Maria-Orcutt
+130000,3,2,1080,Santa Maria-Orcutt
+169990,2,1,920,Santa Maria-Orcutt
+145000,3,2,1027,Santa Maria-Orcutt
+189900,3,2,1253,Santa Maria-Orcutt
+249000,3,2,1062,Santa Maria-Orcutt
+185000,4,2,1934,Santa Maria-Orcutt
+145000,2,2,1041,Atascadero
+429000,5,3,2700,Paso Robles
+419000,2,2,1587,Arroyo Grande
+245000,3,3,1859,Santa Maria-Orcutt
+289900,4,3,2400,Santa Maria-Orcutt
+175000,3,2,1110,Santa Maria-Orcutt
+139000,3,2,1075,Santa Maria-Orcutt
+514900,4,3,2035,Arroyo Grande
+549000,3,2,1858,Pismo Beach
+235000,3,3,1261,Atascadero
+399000,6,3,2628,Atascadero
+259900,3,2,1120,Los Osos
+350900,3,2,1686,Lompoc
+1399900,4,4,5190,Nipomo
+399000,3,2,1840,Santa Maria-Orcutt
+399000,3,2,1204,Solvang
+199000,2,1,973,Atascadero
+350000,3,2,1622,Santa Maria-Orcutt
+296800,4,2,2125,Nipomo
+165000,3,2,1204,Santa Maria-Orcutt
+210000,3,3,1750,Santa Maria-Orcutt
+229000,3,2,1458,San Miguel
+199500,3,2,1184,San Miguel
+110000,3,2,1000,Santa Maria-Orcutt
+264900,3,3,1197,Paso Robles
+449900,3,3,2135,Atascadero
+159900,3,2,1114,Santa Maria-Orcutt
+429000,4,2,1870,Paso Robles
+265000,1,1,566,Grover Beach
+279900,2,2,1134,Nipomo
+174900,3,2,1100,Santa Maria-Orcutt
+158900,4,2,1144,Lompoc
+150000,3,2,1349,Santa Maria-Orcutt
+269000,3,3,1281,Buellton
+489900,3,3,1957,Atascadero
+256000,4,2,1174,Santa Maria-Orcutt
+335000,4,3,2400,Atascadero
+435000,3,2,1236,Morro Bay
+280000,3,3,1910,Santa Maria-Orcutt
+409000,4,2,2064,Paso Robles
+409000,4,2,2064,Paso Robles
+399000,4,3,1888,Paso Robles
+389000,4,2,1862,Paso Robles
+222600,3,2,1106,Nipomo
+140000,3,2,1200,Santa Maria-Orcutt
+650000,3,3,2703,Nipomo
+405000,3,2,1728,Lompoc
+409000,3,2,1960,Paso Robles
+164900,3,2,1092,Santa Maria-Orcutt
+199900,3,2,1275,Santa Maria-Orcutt
+95000,2,1,756,Atascadero
+170000,2,2,885,Oceano
+720000,4,4,3531,San Miguel
+204000,3,2,1712,Santa Maria-Orcutt
+220000,3,2,1100,Santa Maria-Orcutt
+498900,4,3,1500,Buellton
+229900,3,2,1671,Santa Maria-Orcutt
+531905,3,2,1668,San Luis Obispo
+114900,2,1,775,Santa Maria-Orcutt
+191330,4,2,1237,Lompoc
+199900,4,2,1338,Lompoc
+266800,4,3,2100,Santa Maria-Orcutt
+84900,2,2,1222,San Miguel
+250000,3,2,1807,Santa Maria-Orcutt
+220000,4,2,1352,Santa Maria-Orcutt
+227900,3,2,1503,Lompoc
+384900,4,2,1571,Buellton
+529000,4,3,2502,Paso Robles
+159900,3,2,1526,Santa Maria-Orcutt
+199000,3,2,1007,Atascadero
+125000,3,3,1306,Lompoc
+155000,3,2,1593,Santa Maria-Orcutt
+409000,3,3,2203,Paso Robles
+949000,5,4,5200,Atascadero
+90000,2,1,756,Atascadero
+300000,3,3,2328,Santa Maria-Orcutt
+179900,3,2,1008,Santa Maria-Orcutt
+349000,3,2,1346,Grover Beach
+220000,3,2,1112,Nipomo
+155000,3,2,1340,Santa Maria-Orcutt
+390000,4,2,2236,Paso Robles
+425000,5,4,3039,Santa Maria-Orcutt
+249900,3,2,1733,Santa Maria-Orcutt
+239000,4,3,1947,Santa Maria-Orcutt
+395000,4,3,1868,Buellton
+375000,3,3,1475,Buellton
+395000,4,3,1868,Buellton
+395000,4,3,1868,Buellton
+230000,4,3,1927,Santa Maria-Orcutt
+189000,3,2,1292,Santa Maria-Orcutt
+304900,3,2,1657,Paso Robles
+169900,3,2,1300,Santa Maria-Orcutt
+286500,3,2,1700,Santa Maria-Orcutt
+325000,4,2,2400,San Miguel
+375000,3,2,1278,Grover Beach
+278000,3,2,1396,Paso Robles
+149000,3,2,1368,Paso Robles
+209000,3,2,1520,Santa Maria-Orcutt
+95000,2,2,900,Santa Maria-Orcutt
+199900,3,2,1407,Santa Maria-Orcutt
+185000,3,2,1170,Santa Maria-Orcutt
+449900,4,3,3035,Lompoc
+310000,5,4,2900,Santa Maria-Orcutt
+239900,4,2,1656,Santa Maria-Orcutt
+187900,2,2,980,Santa Maria-Orcutt
+450000,3,2,1916,Arroyo Grande
+440000,3,3,1756,San Luis Obispo
+260000,3,2,1278,Santa Maria-Orcutt
+249000,3,2,1275,Paso Robles
+349000,3,3,2000,Atascadero
+175000,3,2,1200,Santa Maria-Orcutt
+449970,3,2,2000,Atascadero
+419000,3,2,1902,Grover Beach
+400000,3,3,1568,Arroyo Grande
+185000,3,2,1257,Santa Maria-Orcutt
+139900,2,2,1100,Santa Maria-Orcutt
+174900,3,2,1461,Santa Maria-Orcutt
+169000,3,2,1200,Santa Maria-Orcutt
+240000,3,3,2039,Santa Maria-Orcutt
+364000,4,3,2150,Santa Maria-Orcutt
+250000,1,1,748,Arroyo Grande
+299900,4,3,1969,Santa Maria-Orcutt
+281900,4,3,2357,Santa Maria-Orcutt
+349900,3,1,1522,Grover Beach
+220000,3,2,1850,Santa Maria-Orcutt
+774800,3,4,3123,Templeton
+135000,3,2,1200,Santa Maria-Orcutt
+149900,3,1,1000,Lompoc
+599000,3,2,2082,Paso Robles
+179000,3,2,1200,Santa Maria-Orcutt
+177000,3,2,1500,Santa Maria-Orcutt
+177000,3,2,1500,Santa Maria-Orcutt
+122500,4,2,1248,Nipomo
+239500,3,2,1400,Santa Maria-Orcutt
+214900,3,2,1080,Paso Robles
+275000,3,2,1460,Santa Maria-Orcutt
+425000,3,2,1437,Arroyo Grande
+175000,2,2,1152,Nipomo
+535000,2,2,1410,Morro Bay
+540000,2,1,817,Pismo Beach
+389000,2,2,703,Cambria
+250000,3,2,1425,Paso Robles
+425000,3,2,1807,Paso Robles
+1350000,3,3,2502,Los Osos
+78500,1,1,800,Santa Maria-Orcutt
+549000,3,2,2237,Paso Robles
+399900,4,2,1860,Santa Maria-Orcutt
+699000,10,11,4905,Atascadero
+129000,2,2,1200,Santa Maria-Orcutt
+480000,2,2,1698,Cambria
+189000,3,1,1022,Nipomo
+639900,3,2,2080,Pismo Beach
+699900,5,4,3000,Santa Maria-Orcutt
+999000,3,3,3621,Grover Beach
+599000,3,2,1570,Arroyo Grande
+365000,4,2,1860,Santa Maria-Orcutt
+359900,3,2,1840,Cambria
+995000,4,4,3740,Arroyo Grande
+193450,4,2,1217,Lompoc
+179900,3,3,1520,Santa Maria-Orcutt
+329900,3,2,1240,Grover Beach
+509000,3,2,1936,Templeton
+995000,3,3,2044,Atascadero
+545000,3,2,1946,Pismo Beach
+795000,3,3,2028,Pismo Beach
+830000,4,3,2700,Atascadero
+54500,2,1,624,Arroyo Grande
+149000,3,2,1800,Arroyo Grande
+36000,2,2,1056,Santa Maria-Orcutt
+349000,3,2,1467,Paso Robles
+299900,4,3,2150,Santa Maria-Orcutt
+469000,4,2,2004,Morro Bay
+1195000,2,2,1044,Oceano
+419900,3,2,1576,Solvang
+189000,2,2,1536,Los Osos
+163900,3,2,1082,Lompoc
+163900,3,2,1237,Lompoc
+648000,3,3,2193,Los Osos
+130000,3,2,1022,Santa Maria-Orcutt
+264900,3,2,1232,Atascadero
+189900,4,2,1435,Santa Maria-Orcutt
+200000,4,2,1430,Santa Maria-Orcutt
+1249000,3,3,2480,Arroyo Grande
+729000,3,3,1953,Cambria
+109900,3,2,1100,Santa Maria-Orcutt
+850000,3,2,2481,Santa Maria-Orcutt
+249500,3,2,1704,Santa Maria-Orcutt
+179900,3,2,1161,Oceano
+149000,3,2,1440,Los Osos
+435000,3,2,1536,Atascadero
+299000,3,2,1310,Atascadero
+625000,3,2,2187,Los Osos
+399000,4,3,2100,Santa Maria-Orcutt
+1290000,3,3,2130,Cambria
+264900,2,3,1400,Solvang
+198900,3,2,1225,Lompoc
+318000,3,3,1868,Paso Robles
+2000000,4,4,3576,Cambria
+598000,2,3,2219,Cambria
+439900,3,3,2508,Paso Robles
+920000,3,3,2817,Pismo Beach
+179900,3,2,1972,Santa Maria-Orcutt
+325000,2,1,952,Templeton
+369000,3,2,1080,Grover Beach
+312900,3,2,1454,Santa Maria-Orcutt
+575000,3,3,1961,Atascadero
+26500,2,2,1344,Santa Maria-Orcutt
+2369000,5,6,4174,San Luis Obispo
+67500,2,2,120,Atascadero
+1490000,3,3,3201,San Luis Obispo
+652000,3,2,1427,Morro Bay
+449000,3,3,2100,Atascadero
+982800,3,2,2306,Morro Bay
+235000,4,3,2100,Santa Maria-Orcutt
+579900,4,3,3166,Paso Robles
+250000,3,2,1280,Santa Maria-Orcutt
+650000,2,2,919,Cambria
+119900,2,2,1034,Santa Maria-Orcutt
+209900,3,2,1356,San Miguel
+524900,3,2,2380,Paso Robles
+349000,5,3,3000,Atascadero
+349000,5,3,3000,Atascadero
+825000,2,3,1840,Cambria
+255000,3,2,1189,Grover Beach
+259000,4,2,1336,Nipomo
+199000,2,1,832,Paso Robles
+410000,5,3,2100,Santa Maria-Orcutt
+199000,3,1,940,Paso Robles
+270000,3,2,1344,Paso Robles
+2995000,5,4,3684,Cambria
+131900,1,2,300,Paso Robles
+995000,4,3,2717,Cambria
+250000,4,3,2097,Santa Maria-Orcutt
+239800,5,2,1575,Arroyo Grande
+425000,6,3,2628,Atascadero
+525000,3,2,1750,Arroyo Grande
+459900,3,2,1346,Pismo Beach
+229900,3,2,1041,Atascadero
+599000,4,2,1728,Arroyo Grande
+197600,4,2,1378,Santa Maria-Orcutt
+355000,2,1,1145,Santa Maria-Orcutt
+339900,3,2,1325,Paso Robles
+299000,3,3,1850,Santa Maria-Orcutt
+379000,4,2,1631,Grover Beach
+150000,3,2,1316,Santa Maria-Orcutt
+475000,3,2,1382,San Luis Obispo
+265000,4,3,2300,Santa Maria-Orcutt
+265000,3,2,1617,Atascadero
+225000,2,2,1150,Los Osos
+249900,2,2,1674,Paso Robles
+509000,3,2,1543,Arroyo Grande
+214900,2,2,1351,Paso Robles
+5499000,4,5,5060,Arroyo Grande
+349900,3,2,2000,Santa Maria-Orcutt
+125000,2,2,1536,Solvang
+549000,2,2,924,Cambria
+865000,3,3,1860,Cambria
+1065000,4,4,3395,Nipomo
+625000,3,2,1850,Templeton
+249999,3,2,1000,Santa Maria-Orcutt
+975000,4,3,2720,Arroyo Grande
+204900,2,1,992,Oceano
+355000,3,2,1737,Atascadero
+199900,5,3,1671,Santa Maria-Orcutt
+349900,4,3,2800,Santa Maria-Orcutt
+99000,2,2,900,Santa Maria-Orcutt
+339000,2,2,1440,Pismo Beach
+595000,3,3,2238,San Miguel
+849500,3,3,2725,Pismo Beach
+399000,2,3,1772,Paso Robles
+399000,4,2,1947,Paso Robles
+525000,3,2,1720,Solvang
+319900,3,3,1605,Paso Robles
+495000,3,2,1877,Paso Robles
+372000,3,2,1104,San Luis Obispo
+589000,3,2,1975,Arroyo Grande
+1100000,3,3,2392,Cambria
